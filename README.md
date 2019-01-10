@@ -1,0 +1,2 @@
+# WemoServ
+synchronize wemo device
